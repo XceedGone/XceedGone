@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm JC Pesquera :bowtie:
 
+[![](https://img.shields.io/badge/langname?style=for-the-badge&logo=logoname&logoColor=F7DF1E)]
+
+
 <!--
 **XceedGone/XceedGone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
